@@ -11,6 +11,8 @@ This project is a data science and machine learning workspace focused on vendor 
 
 The solution is designed to support finance, procurement, and operations teams by helping them identify unusually expensive invoices, estimate freight costs, and understand vendor behavior.
 
+[Live Demo](https://vendorperformance.streamlit.app/)
+
 ---
 
 ## Business Problem
