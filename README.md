@@ -13,6 +13,8 @@ The solution is designed to support finance, procurement, and operations teams b
 
 [Live Demo](https://vendorperformance.streamlit.app/)
 
+[SubStack Post](https://open.substack.com/pub/masteringml/p/vendor-performance-analytics-a-business?r=5r77xf&utm_campaign=post&utm_medium=web)
+
 ---
 
 ## Business Problem
