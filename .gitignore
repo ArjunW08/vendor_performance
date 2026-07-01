@@ -1,0 +1,6 @@
+logs/
+*.db
+*.csv
+.vscode/
+*/__pycache__/*
+.DS_Store
